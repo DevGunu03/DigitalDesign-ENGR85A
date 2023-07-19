@@ -12,3 +12,7 @@ Codes for Course Project ENGR85A - Digital Design
 (3) Twos Complement
 <br>
     This Mealy FSM implementation takes a binary number one bit at a time, starting with the least significant bit, and puts out its negative (two's complement), one bit at a time.
+<br>
+(4) Tail Light FSM
+<br>
+    An application of Moore's FSM on the functioning of spiffy tail light turn signal sequence of the 1965 Ford Thunderbird
