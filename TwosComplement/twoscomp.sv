@@ -5,7 +5,7 @@ module twoscomp(input  logic clk,
 
   typedef enum logic {C0, C1} statetype;
   statetype state, nextstate;
-  // Defines C0 = 00 and C1 = 01
+  // Defines C0 = 0 and C1 = 1
 
   logic a_prev;
   // Defining some internal signals for holding up prev. values of a
