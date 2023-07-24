@@ -1,0 +1,19 @@
+// adventuregame.tv
+// David_Harris@hmc.edu 4 September 2020
+
+// nsew_win_die
+0010_00 // CC to TT
+0100_00 // TT to RR
+0010_00 // RR to DD (oops I forgot the sword)
+0000_00 // DD to GG (ouch!)
+0000_01 // Died, Waiting in GG for reset
+0000_01 // Waiting in GG for reset
+0000_01 // Waiting in GG for reset
+// Testbench applies reset
+0010_00 // CC to TT
+0100_00 // TT to RR
+0001_00 // RR to SS (grab the sword this time!)
+0010_00 // SS to RR
+0010_00 // RR to DD 
+0000_00 // DD to VV (hooray!)
+0000_10 // You win!  O frabjous day! Callooh!  Xallay!
