@@ -17,3 +17,7 @@ Codes for Course Project ENGR85A - Digital Design
 <br>
     An application of Moore's FSM on the functioning of spiffy tail light turn signal sequence of the 1965 Ford Thunderbird
 <br>
+(5) Adventure Game FSM
+<br>
+    Creating a top-level module working in tandem with one Mealy FSM which in turn communicates with another Mealy FSM
+<br>
