@@ -21,3 +21,11 @@ Codes for Course Project ENGR85A - Digital Design
 <br>
     Creating a top-level module working in tandem with one Mealy FSM which in turn communicates with another Mealy FSM
 <br>
+(6) Signed Adder
+<br>
+    Writing Behavioral SystemVerilog from a given algorithm showing Addition of Signed Numbers
+<br>
+(7) Capstone: Multicycle Controller
+<br>
+    Implementating a Moore machine which is a precursor to ALU and decodes signal to perform required tasks
+<br>
